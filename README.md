@@ -11,6 +11,12 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:present90308@gmail.com)
 
+## You can also find me at ...
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jackson1998)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13114063/jackson)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-chen1998/)
+
+## Github status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonchen1998&layout=compact&theme=nord&count_private=true&langs_count=6)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonchen1998&theme=nord&show_icons=true&count_private=true&hide=contribs)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacksonchen1998&theme=dark&hide_border=true)](https://git.io/streak-stats)
