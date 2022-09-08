@@ -3,9 +3,6 @@
 ## Profile 
 - My name is Po-Chang Chen (陳柏全)
 - Living in  Taoyuan, Taiwan 🇹🇼
-- Bachelor, Chang Gung University (CGU), majored in CS
-- Master, National Taipei Tech. (NTUT), majored in CS (Suspend)
-- Master, National Yang-Ming University (NYCU), majored in EE
 - I have a medium blog, if you're insterested. [Click here](https://jackson1998.medium.com/)
 - My GitBook for learning CS with Notes. [Link](https://jackson-6.gitbook.io/jacksonchen-gitbook/)
 
