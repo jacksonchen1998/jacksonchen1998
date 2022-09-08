@@ -3,8 +3,6 @@
 ## Profile 
 - My name is Po-Chang Chen (陳柏全)
 - Living in  Taoyuan, Taiwan 🇹🇼
-- I have a medium blog, if you're insterested. [Click here](https://jackson1998.medium.com/)
-- My GitBook for learning CS with Notes. [Link](https://jackson-6.gitbook.io/jacksonchen-gitbook/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:present90308@gmail.com)
 
