@@ -1,8 +1,10 @@
 # Hello, it's me. Jackson Chen.
 
 ## Profile 
-- My name is Po-Chang Chen (陳柏全)
+- My name is Po-Chuan Chen (陳柏全)
 - Living in  Taoyuan, Taiwan 🇹🇼
+- Now doing some research on machine learning
+- Used to attend Google Development Group / Google Development Student Club
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:present90308@gmail.com)
 
