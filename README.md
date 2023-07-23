@@ -5,7 +5,6 @@
 - Living in  Taoyuan, Taiwan 🇹🇼
 - Now doing some research on machine learning
 - Used to attend Google Development Group / Google Development Student Club
-- Translator in [Python Programming language](https://github.com/python/python-docs-zh-tw)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:present90308@gmail.com)
 
