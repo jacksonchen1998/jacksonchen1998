@@ -3,7 +3,7 @@
 ## Profile 
 - My name is Po-Chuan Chen (陳柏全)
 - Living in  Taoyuan, Taiwan 🇹🇼
-- Being a sofware engineer in Hsinchu, Taiwan 🇹🇼
+- Being a software engineer in Hsinchu, Taiwan 🇹🇼
 
 ## You can also find me at ...
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csjchen1998@gmail.com)
